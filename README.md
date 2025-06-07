@@ -1,0 +1,2 @@
+# git-friend
+for collaboration
